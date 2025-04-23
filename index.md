@@ -7,3 +7,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 var myVar = "Hola a todos!, mi nombre es Lucas";
 
+- [ ] Sos de San Lorenzo
+- [ ] Vas a la cancha
+- [ ] Huracan es un equipo chico
